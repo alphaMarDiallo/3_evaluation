@@ -68,7 +68,7 @@ Le texte barré utilise deux tildes (alt gr + 2)~~
 
     ([image du site GIPHY par ex.] https://media.giphy.com/media/R97jJCEGEmh01/giphy.gif)
     
-     # Les tableaux
+    # Les tableaux
   
     On sépare les céllules sur la même ligne avec  PIPE (alt gr + 6)
 
@@ -81,8 +81,8 @@ Le texte barré utilise deux tildes (alt gr + 2)~~
     Coca | plantes | 2.10E 
 
     Orangina | orange | 2.10E
+    
     Lait | | 1E
-
 
 
  
