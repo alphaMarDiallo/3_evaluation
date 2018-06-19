@@ -74,14 +74,14 @@ Le texte barré utilise deux tildes (alt gr + 2)~~
 
     Boissons | Gout | Prix
 
-    ---|---|---
+    --- | --- | ---
 
     Eau |  neutre | 0.16E 
 
     Coca | plantes | 2.10E 
 
     Orangina | orange | 2.10E
-    
+
     Lait | | 1E
 
 
