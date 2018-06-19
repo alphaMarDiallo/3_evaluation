@@ -66,7 +66,7 @@ Le texte barré utilise deux tildes (alt gr + 2)~~
 
     *Les images
 
-    ([image du site GIPHY par ex.]https://media.giphy.com/media/R97jJCEGEmh01/giphy.gif)
+    ([image du site GIPHY par ex.] https://media.giphy.com/media/R97jJCEGEmh01/giphy.gif)
 
 
  
