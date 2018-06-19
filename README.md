@@ -79,6 +79,7 @@ Le texte barré utilise deux tildes (alt gr + 2)~~
     Coca | plantes | 2.10E 
     Orangina | orange | 2.10E
     Lait | | 1E
+    Emoticone | :imp: | quoi ?
 
  
 [Retour en haut](#haut)
