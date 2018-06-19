@@ -56,6 +56,18 @@ Le texte barré utilise deux tildes (alt gr + 2)~~
 
     ---
     Une ligne de séparation(la balise <br> en html)
+    
+     # Liens
+
+    * [lien sur un site/ une url](https://www.google.com) 
+    
+    *[lien vers un autre fichier Github]
+    (https://github.com/Ma6Tvacoder.Docs/ExercicesJs/blob/master/README.md)
+
+    *Les images
+
+    ([image du site GIPHY par ex.]https://media.giphy.com/media/R97jJCEGEmh01/giphy.gif)
+
 
  
 [Retour en haut](#haut)
